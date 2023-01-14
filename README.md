@@ -13,8 +13,6 @@
 
 # 🔖 목차
 
-<div align="center">
-
 | 카테고리 | 내용 |
 |--|------|
 |`Swift`|[Frame과 Bounds의 차이](https://github.com/deslog/iOS-Interview/issues/1)|
@@ -25,7 +23,6 @@
 |`iOS`|[ViewController의 생명주기](https://github.com/deslog/iOS-Interview/issues/5)|
 |`iOS`|[loadView()와 viewDidLoad()의 차이점](https://github.com/deslog/iOS-Interview/issues/7)|
 
-</div>
 
 ## 📚 참고 레퍼런스
 
