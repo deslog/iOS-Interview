@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img width="1091" alt="image" src="https://user-images.githubusercontent.com/96969693/212459696-fb59c2ab-e1f7-4e4e-a496-23f2f07bd6e6.png"> <br>
+
 
 ✨ 스스로 부족한 iOS 기초 지식을 함양하기 위해서 진행합니다.✨ <br>
 (iOS 인터뷰에서 자주 나오는 질문들을 위주로 정리할 예정입니다.) <br>
